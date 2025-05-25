@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "titulo": "tte",
+        "fecha": "20/05/2025",
+        "descripcion": "entregar",
+        "terminada": false
+    },
+    {
+        "id": 2,
+        "titulo": "Fsicia",
+        "fecha": "05/05/2025",
+        "descripcion": "Entrega fiinal",
+        "terminada": true
+    },
+    {
+        "id": 3,
+        "titulo": "hola",
+        "fecha": "20/3/2025",
+        "descripcion": "gdfds",
+        "terminada": true
+    },
+    {
+        "id": 4,
+        "titulo": "Arte",
+        "fecha": "07/05/2025",
+        "descripcion": "Pintura",
+        "terminada": true
+    },
+    {
+        "id": 5,
+        "titulo": "Ingles",
+        "fecha": "5/06/2025",
+        "descripcion": "Mañana",
+        "terminada": false
+    }
+]
